@@ -1,0 +1,13 @@
+{
+  "name": "izi-dev/faker-provider-colombia",
+  "description": "Provider for faker with info Colombia",
+  "type": "library",
+  "require-dev": {
+    "fzaninotto/faker": "^1.9.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "IziDev\\": "src/"
+    }
+  }
+}
