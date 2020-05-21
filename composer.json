@@ -2,6 +2,7 @@
   "name": "izi-dev/faker-provider-colombia",
   "description": "Provider for faker with info Colombia",
   "type": "library",
+  "license": "MIT",
   "require-dev": {
     "fzaninotto/faker": "^1.9.1"
   },
