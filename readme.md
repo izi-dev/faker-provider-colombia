@@ -1,3 +1,8 @@
+```bash
+composer require izi-dev/faker-provider-colombia --dev
+```
+
+
 ### IziDev\Provider\es_CO\Person
 
 ```php
