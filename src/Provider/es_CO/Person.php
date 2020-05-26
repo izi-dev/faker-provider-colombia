@@ -57,10 +57,7 @@ class Person extends \Faker\Provider\Person
         'Mario', 'Martín', 'Mateo', 'Matías', 'Maximiliano', 'Máximo', 'Miguel', 'Nelson', 'Néstor', 'Nicolás', 'Octavio',
         'Omar', 'Oscar', 'Orlando', 'Ovidio', 'Pablo', 'Patricio', 'Pedro', 'Rafael', 'Ramiro', 'Ramón', 'Raúl',
         'Ricardo', 'Roberto', 'Rubén', 'Salvador', 'Samuel', 'Santiago', 'Sergio', 'Simón', 'Teodoro', 'Tito', 'Tobías',
-        'Tomás', 'Ulises', 'Valentín', 'Vicente', 'Víctor', 'Wilfredo', 'William', 'Zacarías', 'Regina', 'Renata', 'Rocío',
-        'Rosa', 'Rosalba', 'Sabrina', 'Salomé', 'Samanta', 'Sandra', 'Sara', 'Silvia', 'Soledad', 'Sonia', 'Sofía', 'Stefanía',
-        'Susana', 'Tamara', 'Tania', 'Tatiana', 'Teresa', 'Tulia', 'Valentina',
-        'Valeria', 'Vanesa', 'Verónica', 'Victoria', 'Vilma', 'Virginia', 'Viviana', 'Ximena', 'Zoraida',
+        'Tomás', 'Ulises', 'Valentín', 'Vicente', 'Víctor', 'Wilfredo', 'William', 'Zacarías',
     ];
 
     /**
@@ -79,13 +76,13 @@ class Person extends \Faker\Provider\Person
         'Regina', 'Renata', 'Romina', 'Salomé', 'Samantha', 'Sara', 'Silvana ', 'Sofía', 'Sophie', 'Valentina', 'Valeria', 'Valery ',
         'Victoria', 'Violeta', 'Zoe', 'Aitana', 'Sara Sofía', 'Ximena', 'Jimena',
         'Adelaida', 'Adriana', 'Alejandra', 'Alba', 'Alicia', 'Alina', 'Anabel', 'Ana', 'Anastasia', 'Andrea', 'Anita'
-        , 'Angelina - Angélica', 'Antonia', 'Amalia', 'Amelia', 'Amparo', 'Astrid', 'Aurora', 'Bárbara', 'Beatriz', 'Berta', 'Blanca',
+        , 'Angélica', 'Antonia', 'Amalia', 'Amelia', 'Amparo', 'Astrid', 'Aurora', 'Bárbara', 'Beatriz', 'Berta', 'Blanca',
         'Camelia', 'Camila', 'Carina', 'Carla', 'Carolina', 'Carlota', 'Carmen', 'Casandra', 'Catalina', 'Cecilia', 'Celeste',
         'Celia', 'Clara', 'Claudia', 'Cristina', 'Cristela', 'Dalia', 'Damaris', 'Daniela', 'Débora', 'Diana', 'Dina', 'Dolores',
-        'Dora', 'Doris', 'Edith', 'Elba', 'Elena', 'Eliana - Eliane', 'Elisa', 'Elisabet', 'Elvira', 'Ema', 'Emilia', 'Esperanza',
+        'Dora', 'Doris', 'Edith', 'Elba', 'Elena', 'Eliane', 'Elisa', 'Elisabet', 'Elvira', 'Ema', 'Emilia', 'Esperanza',
         'Estefanía', 'Ester', 'Estrella', 'Estela', 'Eugenia', 'Evangelina', 'Fabiola', 'Fátima', 'Filomena', 'Francisca', 'Fanny',
-        'Frida', 'Gabriela', 'Gina', 'Giovanna', 'Giselle', 'Gladis - Gladys', 'Gloria', 'Griselda', 'Guadalupe', 'Heidi',
-        'Helena', 'Heli- Hélida- Heloísa', 'Hilda', 'Hortensia', 'Ileana', 'Inés', 'Ingrid', 'Irene', 'Irma', 'Isabel', 'Irene',
+        'Frida', 'Gabriela', 'Gina', 'Giovanna', 'Giselle', 'Gladys', 'Gloria', 'Griselda', 'Guadalupe', 'Heidi',
+        'Helena', 'Heloísa', 'Hilda', 'Hortensia', 'Ileana', 'Inés', 'Ingrid', 'Irene', 'Irma', 'Isabel', 'Irene',
         'Janet', 'Jazmín', 'Jennifer', 'Jésica', 'Jezabel', 'Jimena', 'Joana', 'Josefina', 'Juana', 'Juanita', 'Judith', 'Julia',
         'Julieta', 'Juliana', 'Karen', 'Katherine', 'Laura', 'Leticia', 'Lilia', 'Liliana', 'Lisa', 'Lola', 'Lorena', 'Lucrecia', 'Lucía'
         , 'Luz', 'Magalí', 'Magdalena', 'Manuela', 'María', 'María José', 'Marian', 'Mariana', 'Marina', 'Marisol', 'Marta', 'Matilde'
