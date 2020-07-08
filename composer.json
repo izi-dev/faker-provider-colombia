@@ -1,6 +1,12 @@
 {
   "name": "izi-dev/faker-provider-colombia",
   "description": "Provider for faker with info Colombia",
+   "keywords" : [
+    "faker",
+    "provider",
+    "CO",
+    "COLOMBIA"
+  ],
   "type": "library",
   "license": "MIT",
   "require-dev": {
